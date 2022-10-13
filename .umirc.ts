@@ -1,7 +1,7 @@
 import { defineConfig } from 'dumi';
 // import style from './docs/siteIndexStyle';
 
-const repo = 'LM-UI'; // 项目名(也就是你的仓库名)
+const repo = 'Totoro'; // 项目名(也就是你的仓库名)
 
 export default defineConfig({
   title: 'LM Design', // 你的组件库名字
