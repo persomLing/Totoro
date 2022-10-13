@@ -5,7 +5,7 @@ name: dumi book test
 on:
   push:
     branches:
-      - main
+      - master
 
 # 工作流
 jobs:
