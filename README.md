@@ -7,9 +7,6 @@
 </div>
 <div align="center">
   <p>开发阶段...</p>
-  <img src="https://img.shields.io/static/v1?label=React&message=v18.0.0&color=blue&style=flat-square"/>
-   <img src="https://img.shields.io/static/v1?label=TypeScript&message=%20&color=blue&style=flat-square"/>
-       <img src="https://img.shields.io/static/v1?label=SCSS&message=%20&color=ff69b4&style=flat-square&logoColor=white&labelColor=ff69b4"/>
 </div>
 
 <div align="left">
